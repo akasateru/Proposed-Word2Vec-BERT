@@ -6,9 +6,15 @@
 - step2  
 ラベル付きの学習データを用いて、分類器を構築
 
-## 情報源領域データ
+## 学習データ
+学習データのラベルは不使用
 ### 20 Newsgroups dataset
 
+### yahoo topic dataset
 
-## BERTモデル
-"bert-base-uncased"
+### reuters dataset
+
+### dbpedia dataset train
+
+## テストデータ
+### dbpedia dataset test
